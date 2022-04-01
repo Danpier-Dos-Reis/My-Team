@@ -1,16 +1,16 @@
 *{
     text-decoration: none;
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
 }
 
 header{
-    margin: 0% 0% 3em 0%;
+    margin-bottom: 3em;
     background-color: #B2DBD3A3;
     justify-content: flex-end;
     height: 5em;
-    box-shadow: 0 0 8px 0;
+    box-shadow: 0 4px 15px;
 }
 
 header ul{
@@ -23,40 +23,7 @@ header ul{
 
 li{
     list-style-type: none;
-    margin-left: 0.5em;
+    margin-left: 1em;
 }
 
 /*Cuerpo*/
-
-main{
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 18px;
-    justify-content: flex-end;
-}
-
-main a img{
-    width: 13em;
-}
-
-.front{
-    margin-left: 2.6em;
-    display: inline-flex;
-}
-
-.front p{
-    transform: rotate(90deg);
-    color: orange;
-    height: 17px;
-    margin: 2em 0 0 0;
-}
-
-.name{
-    margin: 1em 0 2em 2.5em;
-    color: black;
-    font-size: 20px;
-}
-
-@media screen (max-width: 40em){
-    
-}
