@@ -27,40 +27,18 @@ li{
 }
 
 /*Cuerpo*/
-.container{
+
+.principal_container{
     display: flex;
-    height: 20em;
-    justify-content: center;
+    margin: 0 0 2em 0;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-    text-transform: uppercase;
-    font-style: italic;
-    border: 3px solid black;
-    margin-bottom: 1em;
-    position: relative;
-}
-
-.container a{
-    margin: 2em;
-}
-
-.front{
-    display: flex;
-}
-
-.front p{
-    transform: rotate(90deg);
-    color: black;
-    height: 15px;
-    width: auto;
-    margin: 5em 0 0 0;
+    font-size: 22px;
     font-weight: bold;
+
 }
 
-img{
-    width: 250px;
-    height: 250px;
-}
-
-.name{
-    margin: 1em 0 0 0;
+.card{
+    box-shadow: -4px 5px 5px;
+    margin: 0 0 1em 0;
 }

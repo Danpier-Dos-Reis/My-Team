@@ -1,0 +1,70 @@
+<div class="container">
+
+      <!--Levi-->
+      <a href="#one">
+
+        <div class="front">
+          <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/9/94/Levi_Ackerman_character_image.png" alt="levi">
+          <p>Captain</p>
+        </div>
+  
+        <div class="name">
+          <p>Levi Ackerman</p>
+        </div>
+      </a>
+      <!--Sasha-->
+      <a href="#two">
+        <div class="front">
+          <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/3/3d/Sasha_Blouse_character_image.png" alt="sasha">
+          <p>Soldier</p>
+        </div>
+        <div class="name">
+          <p>Sasha Blouse</p>
+        </div>
+      </a>
+  
+      <!--Mikasa-->
+      <a href="#three">
+        <div class="front">
+          <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/f/f7/Mikasa_Ackerman_character_image.png" alt="Mikasa">
+          <p>Ackerman Soldier</p>
+        </div>
+        <div class="name">
+          <p>Mikasa Ackerman</p>
+        </div>
+      </a>
+    </div>
+
+    <!--Other container-->
+    <div class="container">
+      <!--Armin-->
+    <a href="#four">
+      <div class="front">
+        <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/2/23/Armin_Arlert_character_image.png" alt="armin">
+        <p>Intelligent Soldier</p>
+      </div>
+      <div class="name">
+        <p>Armin Arlert</p>
+      </div>
+    </a>
+    <!--Annie Leonhart-->
+    <a href="#five">
+      <div class="front">
+        <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Annie_Leonhart_character_image.png" alt="annie">
+        <p>Titan Soldier</p>
+      </div>
+      <div class="name">
+        <p>Annie Leonhart</p>
+      </div>
+    </a>
+    <!--Connie Springer-->
+    <a href="#six">
+      <div class="front">
+        <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/3/3b/Connie_Springer_character_image.png" alt="connie" >
+        <p>Soldier</p>
+      </div>
+      <div class="name">
+        <p>Connie Springer</p>
+      </div>
+    </a>
+    </div>
