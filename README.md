@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website prueba05chiletienda.infinityfreeapp.com/my-team-page-master/
+- Website http://prueba05chiletienda.infinityfreeapp.com/my-team-page-master/
 - GitHub [@Danpier-Dos-Reis](https://github.com/Danpier-Dos-Reis)
